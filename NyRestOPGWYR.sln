@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NyRestOPGWYR", "NyRestOPGWYR\NyRestOPGWYR.csproj", "{36EC4CCB-445A-4D23-810E-8AB8BE15857C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NyRestOPGWYR", "NyRestOPGWYR\NyRestOPGWYR.csproj", "{36EC4CCB-445A-4D23-810E-8AB8BE15857C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NyRestOPGWYRTests", "NyRestOPGWYRTests\NyRestOPGWYRTests.csproj", "{1AF490ED-90EF-4F98-AFB7-5465C3EEDB1D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{36EC4CCB-445A-4D23-810E-8AB8BE15857C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{36EC4CCB-445A-4D23-810E-8AB8BE15857C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{36EC4CCB-445A-4D23-810E-8AB8BE15857C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1AF490ED-90EF-4F98-AFB7-5465C3EEDB1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AF490ED-90EF-4F98-AFB7-5465C3EEDB1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AF490ED-90EF-4F98-AFB7-5465C3EEDB1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AF490ED-90EF-4F98-AFB7-5465C3EEDB1D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
